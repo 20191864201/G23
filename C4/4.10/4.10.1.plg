@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 4.10.1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\86131\AppData\Local\Temp\RSPC096.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/4.10.1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp"
+]
+Creating command line "cl.exe @C:\Users\86131\AppData\Local\Temp\RSPC096.tmp" 
+<h3>Output Window</h3>
+Compiling...
+4.10.1.cpp
+C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp(9) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp(11) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp(13) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp(15) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp(17) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\86131\Desktop\home\C4\4.4\4.10.1.cpp(19) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+
+
+
+<h3>Results</h3>
+4.10.1.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
