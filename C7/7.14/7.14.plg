@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 7.14 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\86131\AppData\Local\Temp\RSPDFCC.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/7.14.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\86131\Desktop\1111111111111\7.14\7.14.cpp"
+]
+Creating command line "cl.exe @C:\Users\86131\AppData\Local\Temp\RSPDFCC.tmp" 
+<h3>Output Window</h3>
+Compiling...
+7.14.cpp
+c:\users\86131\desktop\1111111111111\7.14\7.14.cpp(62) : warning C4101: 'c' : unreferenced local variable
+c:\users\86131\desktop\1111111111111\7.14\7.14.cpp(92) : warning C4101: 'i' : unreferenced local variable
+c:\users\86131\desktop\1111111111111\7.14\7.14.cpp(92) : warning C4101: 'j' : unreferenced local variable
+c:\users\86131\desktop\1111111111111\7.14\7.14.cpp(58) : warning C4715: 'compare' : not all control paths return a value
+c:\users\86131\desktop\1111111111111\7.14\7.14.cpp(57) : warning C4700: local variable 'subject' used without having been initialized
+c:\users\86131\desktop\1111111111111\7.14\7.14.cpp(57) : warning C4700: local variable 'name' used without having been initialized
+
+
+
+<h3>Results</h3>
+7.14.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
